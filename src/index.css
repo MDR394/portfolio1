@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@1,600&display=swap');
+body {
+  background-color: rgb(238,238,238) !important;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.nav_bg{
+  background-color: rgb(238,238,238) !important;
+}
+.navbar-brand{
+  font-size: 1.9rem !important;
+  font-family: 'Mulish', sans-serif;
+}
+.navbar-brand:hover{
+ color:  #4E97C9 !important;
+ -webkit-transition: color 1s ease-out;
+  -moz-transition: color 1s ease-out;
+  -o-transition: color 1s ease-out;
+  transition: color 1s ease-out;
+
+}
+.nav-link{
+  font-size: 1.3rem;
+  font-family: 'Mulish', sans-serif;
+  transition: 1s !important;
+}
+.nav-link:hover{
+  color: rgb(10,88,202) !important;
+
+  /* -webkit-transition: color 1s ease-out;
+  -moz-transition: color 1s ease-out;
+  -o-transition: color 1s ease-out;
+  transition: color 1s ease-out; */
+ }
+
+
+/* **************  img move up and down   ************** */
+
+ img.vert-move {
+  -webkit-animation: mover 1s infinite  alternate;
+  animation: mover 1s infinite  alternate;
+}
+img.vert-move {
+  -webkit-animation: mover 1s infinite  alternate;
+  animation: mover 1s infinite  alternate;
+}
+@-webkit-keyframes mover {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-10px); }
+}
+@keyframes mover {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-10px); }
+}
+
+
+
+
+
+
+
+/* ***********home************ */
+.home_text h1{
+ font-size: 1.9rem;
+ line-height: 2.5rem;
+}
+.home_text strong{
+  color: rgb(10,88,202);
+}
+.home_text p{
+  font-size: 1.2rem;
+  color: #6d6d6d;
+  text-align:justify
+}
+.home_img img{
+  width: 400px;
+  border-radius: 50%;
+}
+.btn1{
+ color: black;
+ border: 3px solid rgb(10,88,202);
+ cursor: pointer;
+  display: block;
+  border-radius: 50px;
+  padding: 10px 10px 10px 14px;
+  font-size: 1.2rem;
+  /* font-weight: bold; */
+  line-height: 25px;
+  margin: 0 0 2em;
+  max-width: 155px; 
+  position: relative;
+  text-transform: uppercase;
+  width: 100%; 
+  transition: 1s !important;
+}
+.btn1:hover{
+  color: #fff;
+  background-color: rgb(10,88,202);
+}
