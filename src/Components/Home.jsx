@@ -9,7 +9,7 @@ const Home= (props) =>{
        <Common 
         name="MDR Codes"
         img={MDR1} 
-        detail="We are the team of talented Developers Making websites." 
+        detail="You Can Hair Us As Your Web Developer" 
         btn="Get Started"
         title="Grow Your Business With"
         link="/work" />
