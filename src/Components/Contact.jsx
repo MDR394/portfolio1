@@ -44,16 +44,12 @@ const Contact= () =>{
   <label for="exampleFormControlTextarea1" class="form-label">Message Here</label>
   <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Text Here" name="message"></textarea>
 </div>
-<<<<<<< HEAD
+
 <div class="col-12">
     <button class="btn btn-outline-primary" type="submit">Submit form</button>
   </div>
   </form>  
-=======
-                    <div class="col-12">
-    <button class="btn btn-outline-primary" type="submit">Submit form</button>
-  </div>
->>>>>>> 9bd681a0b403dcfb9b6ab981a566be36953778c1
+
                 </div>
             </div>
             </div>
