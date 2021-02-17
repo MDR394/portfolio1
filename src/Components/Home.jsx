@@ -1,6 +1,6 @@
 import React from 'react';
 import Common from "./Common";
-import MDR1 from "./img/download.jpg";
+import MDR1 from "./img/2.jpg";
 
 
 const Home= (props) =>{
