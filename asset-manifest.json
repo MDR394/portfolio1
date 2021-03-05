@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MDR394/portfolio1.git/static/css/main.35f960e1.chunk.css",
+    "main.js": "/MDR394/portfolio1.git/static/js/main.75002168.chunk.js",
+    "main.js.map": "/MDR394/portfolio1.git/static/js/main.75002168.chunk.js.map",
+    "runtime-main.js": "/MDR394/portfolio1.git/static/js/runtime-main.f79b5476.js",
+    "runtime-main.js.map": "/MDR394/portfolio1.git/static/js/runtime-main.f79b5476.js.map",
+    "static/css/2.bbd96ce4.chunk.css": "/MDR394/portfolio1.git/static/css/2.bbd96ce4.chunk.css",
+    "static/js/2.9aaa29c4.chunk.js": "/MDR394/portfolio1.git/static/js/2.9aaa29c4.chunk.js",
+    "static/js/2.9aaa29c4.chunk.js.map": "/MDR394/portfolio1.git/static/js/2.9aaa29c4.chunk.js.map",
+    "index.html": "/MDR394/portfolio1.git/index.html",
+    "static/css/2.bbd96ce4.chunk.css.map": "/MDR394/portfolio1.git/static/css/2.bbd96ce4.chunk.css.map",
+    "static/css/main.35f960e1.chunk.css.map": "/MDR394/portfolio1.git/static/css/main.35f960e1.chunk.css.map",
+    "static/js/2.9aaa29c4.chunk.js.LICENSE.txt": "/MDR394/portfolio1.git/static/js/2.9aaa29c4.chunk.js.LICENSE.txt",
+    "static/media/MDR1.b3a314f3.jpeg": "/MDR394/portfolio1.git/static/media/MDR1.b3a314f3.jpeg",
+    "static/media/download.31e7f32c.jpg": "/MDR394/portfolio1.git/static/media/download.31e7f32c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f79b5476.js",
+    "static/css/2.bbd96ce4.chunk.css",
+    "static/js/2.9aaa29c4.chunk.js",
+    "static/css/main.35f960e1.chunk.css",
+    "static/js/main.75002168.chunk.js"
+  ]
+}
